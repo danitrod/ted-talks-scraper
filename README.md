@@ -6,7 +6,7 @@ Crie documentos JSON estruturados com transcrições de palestras TED Talks extr
 
 ## Maratona Behind the Code
 
-_Esse projeto foi desenvolvido como um subsídio para a resolução do Desafio 3 - FIAP, da Maratona Behind the Code 2020._
+_Esse projeto foi desenvolvido como um subsídio para a resolução do [Desafio 3 - FIAP](https://github.com/maratonadev-br/desafio-3-2020), da [Maratona Behind the Code 2020](https://maratona.dev)._
 
 Encontre no arquivo [ted.py](./ted.py) a lógica para extração de texto do TED Talks e criação do documento, e no arquivo [challenge.py](./challenge.py) as URLs pedidas no desafio 3 da Maratona Behind the Code 2020.
 
