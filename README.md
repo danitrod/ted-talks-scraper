@@ -2,13 +2,13 @@
 
 ## Sobre
 
-Crie documentos JSON estruturados com transcrições de palestras TED Talks diretamente da página, usando Python e Beautiful Soup 4
+Crie documentos JSON estruturados com transcrições de palestras TED Talks extraindo diretamente da página, usando Python e Beautiful Soup 4
 
 ## Maratona Behind the Code
 
 _Esse projeto foi desenvolvido como um subsídio para a resolução do Desafio 3 - FIAP, da Maratona Behind the Code 2020._
 
-Encontre no arquivo [ted.py](./ted.py) a lógica para extração de texto do TED Talks e criação do documento, e no arquivo [challenge.py] as URLs pedidas no desafio 3 da Maratona Behind the Code 2020.
+Encontre no arquivo [ted.py](./ted.py) a lógica para extração de texto do TED Talks e criação do documento, e no arquivo [challenge.py](./challenge.py) as URLs pedidas no desafio 3 da Maratona Behind the Code 2020.
 
 Para criar os documentos JSON de palestras TED Talks necessários para o desafio, siga esses passos:
 
