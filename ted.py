@@ -28,6 +28,3 @@ def main(url):
         json.dump(obj, f, indent=2, ensure_ascii=False)
 
     return obj
-
-
-main('https://www.ted.com/talks/sarah_parcak_help_discover_ancient_ruins_before_it_s_too_late/transcript?language=pt-br')
