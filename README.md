@@ -13,7 +13,7 @@ Encontre no arquivo [ted.py](./ted.py) a lógica para extração de texto do TED
 Para criar os documentos JSON de palestras TED Talks necessários para o desafio, siga esses passos:
 
 1. [Instale Python 3](https://www.python.org/downloads/);
-2. Abra um terminal de comandos e instale a biblioteca [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/) executando o seguinte comando: `pip install beautifulsoup4`;
+2. Abra um terminal de comandos e instale a biblioteca [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/) executando o seguinte comando: `pip install bs4`;
 3. [Instale Git](https://git-scm.com/download/), se ainda não tiver na sua máquina;
 4. Clone esse repositório executando `git clone https://github.com/danitrod/ted-talks-scraper.git` e acesse o repositório com `cd ted-talks-scraper`;
 5. Execute o programa com `python challenge.py`. Os arquivos JSON serão automaticamente criados na mesma pasta.

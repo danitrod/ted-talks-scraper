@@ -1,3 +1,5 @@
+from time import sleep
+
 from ted import main
 
 urls = ['https://www.ted.com/talks/helen_czerski_the_fascinating_physics_of_everyday_life/transcript?language=pt-br#t-81674',
@@ -10,3 +12,4 @@ urls = ['https://www.ted.com/talks/helen_czerski_the_fascinating_physics_of_ever
 
 for url in urls:
     main(url)
+    sleep(1)
